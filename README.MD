@@ -1,6 +1,6 @@
 # ArFramework for Book Store Project
 
-## Catatan : Masih banyak error, berhubung ngerjainnya buru buru.
+## URL Admin: /admin atau /admin/login | Username: arbiyanto | Password: hokage6
 
 ## Directory Structure
 
